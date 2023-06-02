@@ -1,4 +1,4 @@
-FROM ubuntu:rolling
+FROM ubuntu:23.04
 MAINTAINER Yavuzlar Web Security Team <iletisim@siberyavuzlar.com>
 LABEL Description="Web Vulnerability Lab by Yavuzlar." \
 	License="Mozilla Public License Version 2.0" \
